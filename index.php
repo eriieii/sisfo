@@ -1,3 +1,7 @@
+<?php 
+$page = $_GET['page'];
+ ?>
+
 <!DOCTYPE html>
 <html>
 <head>
